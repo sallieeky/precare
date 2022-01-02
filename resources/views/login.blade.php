@@ -9,7 +9,7 @@
 						<div class="text-center mt-4">
 							<h1 class="h2">Selamat Datang di PRECARE</h1>
 							<p class="lead">
-                Silakan login menggunakan akun admin
+                Silakan login menggunakan akun admin AWOK
 							</p>
 						</div>
 						<div class="card">

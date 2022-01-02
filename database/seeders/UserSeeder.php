@@ -24,6 +24,15 @@ class UserSeeder extends Seeder
             'alamat' => "Jl. Ahmad Yani"
         ]);
         User::create([
+            "name" => "eky",
+            'foto' => "inspace.png",
+            "nip" => "123456789012",
+            "email" => "eky@admin",
+            "password" => bcrypt("eky12345"),
+            'no_telp' => "081243942304",
+            'alamat' => "Jl. Ahmad Yani"
+        ]);
+        User::create([
             "name" => "Jeanth",
             'foto' => "jae.jpg",
             "nip" => "123456789012",
